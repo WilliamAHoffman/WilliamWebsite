@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.element{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+.verticleBar{
+    display: flex;
+    flex-direction: column;
+}
+
+.horizontalBar{
+    display: flex;
+    flex-direction: row;
+}
+
+.banner{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    text-align: center;
+    width: 100%;
+    
+}
