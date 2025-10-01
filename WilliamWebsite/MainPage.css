@@ -42,7 +42,7 @@ text-shadow: -2px 2px 1px gray;
   float: left;
   width: 150px;
   height: 200px;
-  border: 2px solid black;
+  border: 2px solid darkblue;
   background-color: black;
 }
 
@@ -54,6 +54,8 @@ text-shadow: -2px 2px 1px gray;
     align-items: stretch;
     text-align: center;
     border: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 body, html {
@@ -69,7 +71,7 @@ body, html {
 }
 
 .mainParagraph{
-  padding-top: 3em;
+  padding-top: 2em;
   padding-left: 2em;
   padding-right: 2em;
   text-indent: 30px;
@@ -95,5 +97,18 @@ body{
   font-family: monospace;
   padding: 10px;
   font-weight: bold;
+  text-align: center;
 }
 
+.subIdentifier{
+  color:black;
+  text-align: center;
+  font-family: monospace;
+  font-size: 0.8em;
+}
+
+a{
+  color: cornflowerblue;
+  font-family: monospace;
+  text-decoration: none;
+}
