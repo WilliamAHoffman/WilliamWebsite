@@ -1,2 +1,2 @@
 # WilliamWebsite
-This is my personal website
+This is the repository for my pages website.
