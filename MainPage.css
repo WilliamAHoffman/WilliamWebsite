@@ -50,8 +50,12 @@
   background-size: cover;
 }
 
-#BGC{
-
+#logoimage {
+  width: 100px;
+  background-image: url("Images/serveit.png");
+  height: 100px;
+  background-color: purple;
+  background-position: center;
 }
 
 .image-container {
